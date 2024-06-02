@@ -5,7 +5,7 @@
 4. Create a database with name newsportal
 5. Import newsportal.sql file(given inside the zip package in sql file folder)
 6. Run the script http://localhost/newsportal (frontend)
-7. For admin panel  http://localhost/newsporta/admin
+7. For admin panel  http://localhost/newsportal/admin
 
 ## Credential for Admin panel :
 usernam: admin
