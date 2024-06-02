@@ -17,3 +17,9 @@ Password : Test@123
 
 ## HOME PAGE
 ![home-page](https://github.com/shivam-i/news-portal/blob/1f7e50d9e462a919c250da414f75cdd0fce49d89/newsportal/images/screenshots/home-page.png)
+
+## MANAGE CATEGORIES
+![manage-categories](https://github.com/shivam-i/news-portal/blob/afd22a9cc9343526cca0ef12c588c189722ceebb/newsportal/images/screenshots/manage-categories.png)
+
+## ADD NEWS
+![add-news](https://github.com/shivam-i/news-portal/blob/afd22a9cc9343526cca0ef12c588c189722ceebb/newsportal/images/screenshots/add-news.png)
