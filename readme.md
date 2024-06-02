@@ -14,3 +14,6 @@ Password : Test@123
 ## Credential for Sub-Admin panel :
 username: subadmin
 Password : Test@123
+
+## HOME PAGE
+![home-page](https://github.com/shivam-i/news-portal/blob/1f7e50d9e462a919c250da414f75cdd0fce49d89/newsportal/images/screenshots/home-page.png)
